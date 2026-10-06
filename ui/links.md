@@ -1,0 +1,13 @@
+https://www.figma.com/design/7VbdCWgTUtUlji8pxW4AxJ/Untitled?node-id=12-3&t=NRgArr6uQyklDtm9-0
+https://www.figma.com/design/WhRAzp6rnNVgMhWFdFvLu7/Simple-UX-UI-Portfolio--Community-?node-id=18-43&t=gveYYhlwRso4hCOk-0
+https://www.figma.com/design/7VbdCWgTUtUlji8pxW4AxJ/Untitled?node-id=0-1&p=f&t=YpcB7LnuAzeCBFtG-0
+https://www.figma.com/design/8N9J2wQC24hy1uMtdmaG7o/Untitled?node-id=0-1&p=f&t=AIkGlnc1VIhhiX8U-0
+https://www.figma.com/files/team/1675638411299581102/resources/community/file/1222060007934600841?q_id=e7024d30-51b0-4148-a4f1-1f3892540fb3&fuid=1675638409956883795
+https://www.figma.com/design/d7sc3tN8N9BwwXIY7Xr7s5/Minimal-Landing-Page-Design-%257C-Website-Home-Page-Design-%257C-Agency-Website-UI-Design--Community-?node-id=1-2&p=f&t=kwl2GNZ43wx490xA-0
+https://www.figma.com/design/FcpJu73TLv0Aib1ewJhbvg/eCommerce-Website-%257C-Web-Page-Design-%257C-UI-KIT-%257C-Interior-Landing-Page--Community-?node-id=1-3&p=f&t=2byJEwqf4svz71Lv-0
+https://www.figma.com/design/kKaxfUDg9lLujSRNzIzcc4/Whitepace---SaaS-Landing-Page--Community-?node-id=9-2180&t=PQZ867gFzFX335r7-0
+https://www.figma.com/design/nSrHz1baQbukjGQbVlvDzT/Travel-Website-Landing-Page--Community-?node-id=0-1&p=f&t=qsMxLrP8UIslpH1I-0
+https://www.figma.com/files/team/1675638411299581102/resources/community/file/1076341144333859432?q_id=e7024d30-51b0-4148-a4f1-1f3892540fb3&fuid=1675638409956883795
+https://www.figma.com/files/team/1675638411299581102/resources/community/file/1061732519182077733?q_id=e7024d30-51b0-4148-a4f1-1f3892540fb3&fuid=1675638409956883795
+https://chatgpt.com/c/6ac365b7-631c-83ea-a211-d796473e65af
+https://github.com/sh3rif0x/teach-me
